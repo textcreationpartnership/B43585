@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a letter which was sent to one call'd a Quaker occasion'd by a book lately publish'd, intituled, Moderation exciting to reconciliation amongst that people.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43585</idno><idno type="EEBO-CITATION">318212165</idno>
+  <idno type="VID">208393</idno>
+  <idno type="EEBO-PROQUEST">2240924343</idno>
+  
+            <idno type="OCLC"> 318212165</idno>
+            <idno type="OCLC">ocn 318212165</idno>
+            <idno type="STC">Wing P47A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43585)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208393)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2942:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a letter which was sent to one call'd a Quaker occasion'd by a book lately publish'd, intituled, Moderation exciting to reconciliation amongst that people.</title>
+                  <author>J. P.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: J.P.</note>
+                  <note>"22th (month call'd) June, 1698."</note>
+                  <note>Imprint suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Library of Congress.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Quakers --  Early works to 1800.</term>
+               <term type="topical_term">Society of Friends --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:208393:1"/>
+            <pb facs="tcp:208393:2"/>
+            <pb n="1" facs="tcp:208393:2"/>
+            <head>A Copy of a LETTER Which was sent to one call'd a QUAKER, Occasion'd by a Book lately Publish'd, Intituled, Moderation exciting to Reconciliation amongst that People.</head>
+            <opener>
+               <dateline>
+                  <date>22th <hi>(Month call'd)</hi> June, 1698.</date>
+               </dateline>
+               <salute>My Friend,</salute>
+            </opener>
+            <p>I Have Read over the Book of <hi>W. R</hi>'s. you sent me last Night, and thank you for it; I perceive it is of the same tendancy for a Reconcilement, with that of <hi>Benjamin Cole</hi>'s, <hi>Charles Harris,</hi> and others, formerly Printed, which was, by the other Party, greatly Rejected: and in<g ref="char:EOLhyphen"/>deed they had great reason for their so doing, if what they had Printed concerning them were True, <hi>viz.</hi>
+            </p>
+            <pb n="2" facs="tcp:208393:3"/>
+            <p> That <hi>John Story, John Wilkinson,</hi> and that Party, were <hi>Ministers of the Devil, and Ministers of Antichrist,</hi>
+               <note n="*" place="margin">Answer to <hi>W. Rogers,</hi> in Postscript</note> and that <hi>a Cursed Spirit was entered into their Hearts and Souls.</hi>
+               <note n="†" place="margin">See their <hi>Epistle of Caution,</hi> p. 4. 1681.</note> And charged <hi>W. Rogers,</hi> in particular, <hi>To be Sealed down under Eternal Judg<g ref="char:EOLhyphen"/>ment and Condemnation, from GOD, for ever, except he Repented.</hi> And also said, <hi>In this State (exceptthou</hi> (W. Rogers) <hi>canst find a place of Re<g ref="char:EOLhyphen"/>pentance) thou art reserved in Chains of Darkness, unto the Judgment of the Great Day.</hi>
+               <note n="‖" place="margin">Answer to <hi>W. Rogers, &amp;c.</hi> p. 4. &amp; 16. Printed 1682.</note> And that the said <hi>W. Rogers,</hi> and others of his Friends, were <hi>Betraying</hi> Judas<hi>'s, Wolves, Doggs, Devils Incarnat,</hi>
+               <note n="*" place="margin">
+                  <hi>G. White<g ref="char:EOLhyphen"/>head</hi>'s Judg<g ref="char:EOLhyphen"/>ment Fixt, <hi>&amp;c.</hi> Preface, Printed 82.</note> and that He, and They, were <hi>Hea<g ref="char:EOLhyphen"/>thens, Athiests,</hi> and the like. I say, these things Considered, they could not accept of any offers for a Re<g ref="char:EOLhyphen"/>conciliation without Repentance; especially considering how their great <hi>Apostle</hi> and <hi>Prophet,</hi> viz. <hi>George Fox,</hi> (who said, when Living, <hi>He had Power to Bind and to Loose whom he pleas'd,)</hi> had Sealed up their Doom, (and which he ordered not to be Opened till after his Death) in these words, <hi>viz. And as for this Spirit of Rebellion, and Opposition, that hath risen Formerly, and Lately, it is out of the Kingdom of GOD, and Heavenly Jerusalem; and is for JƲDGMENT and CONDEMNATION, with all its BOOKS, WORDS, and WORKS.</hi>
+               <note n="*" place="margin">This was Printed in their Yearly Paper, 91. And Reprin<g ref="char:EOLhyphen"/>ted in <hi>George Fox</hi>'s Jour<g ref="char:EOLhyphen"/>nal. 1694. p. 616.</note>
+            </p>
+            <p>Thus you may plainly see, how 'tis Impos<g ref="char:EOLhyphen"/>sible there can be any true Reconciliation whilst these their Testimonies are upon Record, (and, as they pretended, given forth by the <hi>Spirit</hi> of <hi>GOD)</hi> until they come to Repentance themselves, and Acknowledge that they have been greatly Mistaken, and that they have been Acted, and Guided by a Wrong,
+<pb n="3" facs="tcp:208393:3"/> Lying, and Deceitful <hi>Spirit;</hi> I say, till this be first done, there can be no true Peace, Unity, or Reconciliation a<g ref="char:EOLhyphen"/>mongst you; for the great Divisions of your People were not chiefly, nor indeed at all, as in the Apostles Days, some were for <hi>Paul,</hi> and some for <hi>Apollos, &amp;c.</hi> (as <hi>W. R</hi>'s. Book seems to intimate) for they were owned to be Good Men, on all sides, and Ministers of CHRIST; but your Preachers have Sentenced one another to be <hi>Ministers of the Devil, and Ministers of Antichrist,</hi> and that a <hi>Cursed Spirit was enter'd into their Hearts and Souls,</hi> and that they were <hi>Devils Incarnate,</hi> and the like: Now, if your Mini<g ref="char:EOLhyphen"/>sters and People be such, What Man that truly fears GOD, can have any Fellowship, or, in the least, desire Union with them? I believe not any. And therefore my Advice is, That before any Proposals for an Accomodation, or Reconcilement be made amongst you, that a Solemn FAST be Proclaimed throughout all your Tribes, and begg of the ALMIGHTY (as <hi>Ezra,</hi> of old, did) <hi>That HE would shew them the RIGHT WAY;</hi> and no doubt, if they did Truly, and Sincerely Humble themselves, and Implore HIS Divine Assistance, but it might be Granted to them, as it was to those that <hi>Fasted and Afflicted themselves,</hi> in days past. <hi>Ezra</hi> 8. 21, 23. But till this Humility, and Sencible State be come to, [by both Parties] all their Unities, and Felowships, will be but as so many Combinations, and Poli<g ref="char:EOLhyphen"/>tical Designs, to keep up their Reputation and Esteem a<g ref="char:EOLhyphen"/>mongst the People, and to advance their Trades and Worldly Interests; Which are, and ought, to be Rejected, and Testi<g ref="char:EOLhyphen"/>fied against by all that truly Fear GOD, and that hate Hypocrisy, and every Evil and Deceitful Way, as doth</p>
+            <closer>
+               <signed>Your True Hearted Friend <hi>J. P.</hi>
+               </signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <hi>What Peace; so long as the Whoredoms of</hi> Jezebel, <hi>and her Witchcrafts are so many.</hi>
+                  <bibl>2 Kings 9. 22.</bibl>
+               </q>
+            </epigraph>
+            <pb facs="tcp:208393:4"/>
+            <pb facs="tcp:208393:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
